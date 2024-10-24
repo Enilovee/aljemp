@@ -30,9 +30,6 @@
     "v8": "^0.1.0"
   },
   "devDependencies": {
-    "@types/bcryptjs": "^2.4.6",
-    "@types/express": "^5.0.0",
-    "@types/jsonwebtoken": "^9.0.7",
     "concurrently": "^8.2.2",
     "dotenv": "^16.4.5"
   }
